@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #ebebeb;
+    font-family: 'Helvetica Neue', sans-serif;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container, .absensi {
+    width: 50%;
+    float: left;
+}
+
+.smallContain {
+    margin: 10px;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.absensi{
+    display: flex;
+    flex-direction: column;
+}
+
+.smallContain button{
+    width: 480px;
+    margin: 10px;
+    padding: 12px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.tablist {
+    border-collapse: collapse; /* Merge table borders */
+    width: 100%;
+}
+
+.tablist th, .tablist td {
+    padding: 10px;
+    border: 1px solid #e0e0e0; /* Modern border style */
+    text-align: center;
+}
+
+.tablist th {
+    background-color: #0070de; /* Header background color */
+    color: #fff; /* Header text color */
+}
+
+.tablist tr:nth-child(even) {
+    background-color: #f2f2f2; /* Even row background color */
+}
+
+.tablist tr:nth-child(odd) {
+    background-color: #fff; /* Odd row background color */
+}
+
+.tablist td img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+
+
+.form {
+    border-radius: 4px;
+    margin: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: #fafafe;
+    color: #0f0f0f;
+}
+
+.btn {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #1e6abf;
+}
