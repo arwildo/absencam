@@ -1,3 +1,4 @@
+<h1 align="center">absenCam</h1>
 <p align=center> 
   <img src="https://raw.githubusercontent.com/arwildo/absencam/master/preview/absenCam-preview.png" width="800">
 </p>
@@ -7,17 +8,17 @@ Aplikasi absensi untuk workshop, pertemuan, rapat dan lainnya yang menggunakan h
 </p>
 
 
-### Built With
+## Built With
 
-* [PHP](https://www.php.net/) - Webapp
-* [MySQL](https://www.mysql.com/) - Database
-
-
-### Requirements
-* [XAMPP](https://www.apachefriends.org/) - XAMPP
+* PHP - Webapp
+* MySQL - Database
 
 
-### Installing
+## Requirements
+* XAMPP - XAMPP
+
+
+## Installing
 
 1. Clone the repo
 
@@ -36,11 +37,11 @@ mkdir img
 4. Jalankan menggunakan XAMPP webserver
 
 
-### License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+MIT © <a href="https://arwildo.com/" target="_blank">Arwildo</a>
 
 
-### Support
+## Support
 
 <a href="https://www.buymeacoffee.com/Arwildo " target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
