@@ -6,14 +6,14 @@
 Aplikasi absensi untuk workshop, pertemuan, rapat dan lainnya yang menggunakan hasil foto webcam sebagai bukti kehadiran.
 </p>
 
+
 ### Built With
 
 * [PHP](https://www.php.net/) - Webapp
 * [MySQL](https://www.mysql.com/) - Database
 
-### Installing
 
-#### Frontend
+### Installing
 
 1. Clone the repo
 
