@@ -1,5 +1,5 @@
 <p align=center> 
-  <img src="https://raw.githubusercontent.com/arwildo/akunter/master/frontend/src/images/akunter.png" width="800">
+  <img src="https://raw.githubusercontent.com/arwildo/absencam/master/preview/absenCam-preview.png" width="800">
 </p>
 
 <p style="text-align: justify;">
@@ -11,6 +11,10 @@ Aplikasi absensi untuk workshop, pertemuan, rapat dan lainnya yang menggunakan h
 
 * [PHP](https://www.php.net/) - Webapp
 * [MySQL](https://www.mysql.com/) - Database
+
+
+### Requirements
+* [XAMPP](https://www.apachefriends.org/) - XAMPP
 
 
 ### Installing
