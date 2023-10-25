@@ -13,7 +13,7 @@
     <body onload="configure();">
 
     <div class="container">
-        <img class="logoImg" src="absencam-arwildo-logo.svg" alt="AbsenCam">
+        <img class="logoImg" src="logo.svg" alt="AbsenCam">
         <div class="smallContain">
             <div id="my_camera"></div>
             <div id="results" style="display: none; position: absolute;">
