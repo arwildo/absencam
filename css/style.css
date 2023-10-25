@@ -11,10 +11,14 @@ body {
     min-height: 100vh;
 }
 
-.container, .absensi {
-    width: 50%;
+.container {
+    width: 40%;
     float: left;
-    border-radius: 20px;
+}
+
+.absensi {
+    width: 60%;
+    float: left;
 }
 
 .smallContain {
@@ -42,6 +46,11 @@ body {
     border-radius: 20px;
     cursor: pointer;
     font-size: 16px;
+}
+.logoImg {
+    padding: 10px;
+    float: left;
+    width: 250px;
 }
 
 
