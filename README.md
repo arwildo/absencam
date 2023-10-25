@@ -26,7 +26,7 @@ Aplikasi absensi untuk workshop, pertemuan, rapat dan lainnya yang menggunakan h
 git clone https://github.com/arwildo/akunter
 ```
 
-2. Buat folder img didirectory utama
+2. Buat folder img di direktori utama
 
 ```
 mkdir img
